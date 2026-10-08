@@ -66,7 +66,7 @@ data held by the developer.
 
 Requests can be submitted to:
 
-[YOUR SUPPORT EMAIL]
+piratisrael@gmail.com
 
 If no personal data is held by the developer,
 we will explain this in response to the request.
@@ -88,4 +88,4 @@ Updates will be published on this page.
 For privacy-related questions or data deletion
 requests, contact:
 
-[YOUR SUPPORT EMAIL]
+piratisrael@gmail.com
